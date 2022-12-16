@@ -5,7 +5,7 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniellincolnoficial/)
 
-![Danicoln GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoln&show_icons=true&theme=tokyonight)
+![Danicoln GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoln&show_icons=true&theme=dark)
 
 ![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
 

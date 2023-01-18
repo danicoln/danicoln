@@ -26,7 +26,7 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
   
   ### Objetivos
   Sou formado em Ciências Contábeis e cursando Análise e Desenvolvimento de Sistemas, focado no Back End e a procura de uma oportunidade na área!
-  Estou aberto para trainee, estágio, desenvolvedor júnior e afins.
+ 
   Será uma honra poder colaborar com sua empresa! 🤝
   
 ## Contatos:

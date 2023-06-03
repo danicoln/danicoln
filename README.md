@@ -8,10 +8,6 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
 ### Objetivos
 <p>  Nos dias atuais, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
  
-![Danicoln GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoln&show_icons=true&theme=dark)
-
-![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
-
 ## Tecnologias que utilizo atualmente
 
 <div style="display: inline_block"><br/>
@@ -26,6 +22,10 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div><br/>
+  
+  ![Danicoln GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoln&show_icons=true&theme=dark)
+
+![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
   
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)

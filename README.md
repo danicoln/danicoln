@@ -30,4 +30,4 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
-📧 lincolndeveloper@outlook.com
+</br>📧 lincolndeveloper@outlook.com

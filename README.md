@@ -1,7 +1,10 @@
 ### Olá! Daniel Lincoln aqui 👋
 
-Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades. Espero que curta!
+Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades.
 
+### Objetivos
+<p>  Sou formado em Ciências Contábeis, trabalho como Perito Judicial e cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025), venho aprimorando minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade.</p>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
 
@@ -23,11 +26,6 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div><br/>
-  
-  ### Objetivos
-  Sou formado em Ciências Contábeis e cursando Análise e Desenvolvimento de Sistemas, focado no Back End e a procura de uma oportunidade na área!
- 
-  Será uma honra poder colaborar com sua empresa! 🤝
   
 ## Contatos:
 📧 lincolndeveloper@outlook.com

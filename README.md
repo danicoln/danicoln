@@ -2,8 +2,11 @@
 
 Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades.
 
+### Resumo
+<p>  Sou formado em Ciências Contábeis, tenho trabalhos de freelances como Perito Judicial no TJSP desde 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025).
+
 ### Objetivos
-<p>  Sou formado em Ciências Contábeis, trabalho como Perito Judicial e cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025), venho aprimorando minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade.</p>
+<p>  Nos dias atuais, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)

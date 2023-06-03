@@ -8,9 +8,6 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
 ### Objetivos
 <p>  Nos dias atuais, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
-
 ![Danicoln GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoln&show_icons=true&theme=dark)
 
 ![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
@@ -31,4 +28,6 @@ Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas ativida
   </div><br/>
   
 ## Contatos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
 📧 lincolndeveloper@outlook.com

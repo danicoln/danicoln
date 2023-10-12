@@ -3,10 +3,10 @@
 Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades.
 
 ### Resumo
-<p>  Sou formado em Ciências Contábeis, tenho trabalhos de freelances como Perito Judicial no TJSP desde 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025).
+<p>  Sou formado em Ciências Contábeis, tenho trabalhos de freelances como Perito Judicial no TJSP desde 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025) e trabalhando como Desenvolvedor de Software na <strong>WS System Development</strong>.
 
 ### Objetivos
-<p>  Nos dias atuais, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento backend onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
+<p>  Atualmente, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento de software onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
  
 ## Tecnologias que utilizo atualmente
 

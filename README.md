@@ -1,12 +1,15 @@
-### Olá! Daniel Lincoln aqui 👋
+Olá, sou Daniel Lincoln, um entusiasta da tecnologia com experiência em desenvolvimento de software. Minha jornada de programação me levou a explorar uma variedade de tecnologias e ferramentas, incluindo:
 
-Seja bem vindo ao meu perfil! Aqui você encontrará um pouco das minhas atividades.
+- Desenvolvimento Web com Angular, HTML5 e CSS3.
+- Integração contínua e implantação com Jenkins.
+- Programação em Java, explorando o poder dessa linguagem versátil.
+- Construção de aplicativos interativos com JavaScript.
+- Armazenamento de dados em bancos de dados MySQL, PostgreSQL e MongoDB.
+- Desenvolvimento de aplicativos robustos com o Spring Framework.
+- Exploração de sistemas de controle de versão com Git.
+- Uso de metodologias ágeis para otimizar o desenvolvimento de software.
 
-### Resumo
-<p>  Sou formado em Ciências Contábeis, tenho trabalhos de freelances como Perito Judicial no TJSP desde 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas (formatura em 06/2025) e trabalhando como Desenvolvedor de Software na <strong>WS System Development</strong>.
-
-### Objetivos
-<p>  Atualmente, meus esforços estão voltados para o aprimorando de minhas técnicas no desenvolvimento de software onde meu objetivo é me tornar um desenvolvedor cada vez melhor, entregando códigos eficientes e de qualidade, aplicando todo o aprendizado obtido ao longo dessa minha jornada no ramo da tecnologia.</p>
+<p>Estou constantemente buscando oportunidades de aprendizado e projetos desafiadores para aprimorar minhas habilidades e contribuir para a comunidade de desenvolvedores. Se você compartilha interesses semelhantes ou está interessado em colaborar, não hesite em entrar em contato!</p>
  
 ## Tecnologias que utilizo atualmente
 

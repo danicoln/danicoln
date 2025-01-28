@@ -9,22 +9,79 @@ Olá, sou Daniel Lincoln, um entusiasta da tecnologia com experiência em desenv
 - Exploração de sistemas de controle de versão com Git.
 - Uso de metodologias ágeis para otimizar o desenvolvimento de software.
 
-<p>Estou constantemente buscando oportunidades de aprendizado e projetos desafiadores para aprimorar minhas habilidades e contribuir para a comunidade de desenvolvedores. Atualmente além de estar atuando como Desenvolvedor Java Fullstack, paralelamente venho trabalhando em meu projeto pessoal. Descrevo com mais detalhes logo abaixo.</p>
- 
-## Tecnologias que utilizo atualmente
+## Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
- <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </div><br/>
+- Frontend:
+<div>
+ <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+ <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+ <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+ <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</div><br>
+
+<p>Para criar interfaces de usuário dinâmicas e responsivas.</p>
+
+- Backend:
+<div>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+</div><br>
+<p>
+ Para construir APIs REST escaláveis e seguras.
+</p>
+
+<div>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+</div><br>
+
+<p>Para armazenamento de dados estruturados e não estruturados.</p>
+
+<div>
+ <img align="center" alt="GPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+</div><br>
+<p>Integração com serviços externos como OpenAI para IA e processamento de linguagem natural.</p>
+
+- DevOps e Gestão:
+
+<div>
+ <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white" />
+ <img align="center" alt="AzureDevops" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+ <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+</div><br>
+<p>
+ Jenkins e Azure DevOps para integração e entrega contínuas (CI/CD).
+ Controle de versão com Git (e GitHub) para colaboração eficiente.
+ Docker para criar e gerenciar ambientes isolados e consistentes.
+</p>
+
+- Design e Modelagem:
+
+<div>
+ <img align="center" alt="StarUML" src="https://img.shields.io/badge/StarUML-blue?logo=staruml&style=flat" />
+</div><br>
+
+<p>
+ StarUML para modelagem de software, garantindo soluções bem planejadas.
+ Documentação detalhada de APIs e fluxos de trabalho.
+</p>
+
+- Metodologias de Desenvolvimento:
+
+<p>
+ Experiência com metodologias ágeis, utilizando Jira e Azure DevOps para gerenciamento de tarefas e sprints.
+ Testes unitários, de integração e end-to-end para garantir qualidade e estabilidade.
+</p>
+
+- Inteligência Artificial:
+
+<p>
+ Implementação de assistentes virtuais para geração de textos, resposta a perguntas e suporte à análise jurídica com IA.
+ Utilização do GPT (via API da OpenAI) para enriquecer a experiência dos usuários no SGLP.
+</p>
+
+<p>Sou apaixonado por criar soluções que fazem a diferença, com foco na experiência do usuário e na entrega de valor. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para enfrentar desafios e explorar novas fronteiras no mundo da tecnologia. Paralelamente venho trabalhando em meu projeto pessoal. Descrevo com mais detalhes logo abaixo.</p>
 
 ## Meu Projeto Pessoal: Sistema de Gerenciamento de Laudo Pericial (SGLP)
 
@@ -66,6 +123,7 @@ A classe principal do sistema é a Laudo Pericial, que possui os seguintes atrib
 - introducao: Introdução do laudo.
 - dataDoLaudo: Data de emissão do laudo.
 
+### Link do Projeto: https://sglp.com.br
 
 ## Estatísticas:
   
@@ -74,6 +132,6 @@ A classe principal do sistema é a Laudo Pericial, que possui os seguintes atrib
 ![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
   
 ## Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
-</br>📧 lincolndeveloper@outlook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
+</br>E-mail: 📧 lincolndeveloper@outlook.com

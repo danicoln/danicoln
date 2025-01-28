@@ -132,6 +132,6 @@ A classe principal do sistema é a Laudo Pericial, que possui os seguintes atrib
 ![Danicoln languague stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoln&layout=compact)
   
 ## Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellincolndev/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff/)](https://www.linkedin.com/in/daniellincolndev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lincolndeveloper/)
 </br>E-mail: 📧 lincolndeveloper@outlook.com

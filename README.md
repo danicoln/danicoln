@@ -123,7 +123,7 @@ A classe principal do sistema é a Laudo Pericial, que possui os seguintes atrib
 - introducao: Introdução do laudo.
 - dataDoLaudo: Data de emissão do laudo.
 
-### Link do Projeto: https://sglp.com.br
+### Link da página inicial do projeto: https://sglp.com.br
 
 ## Estatísticas:
   

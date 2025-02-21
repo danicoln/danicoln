@@ -106,7 +106,7 @@ O Sistema de Gerenciamento de Laudo Pericial é uma aplicação em desenvolvimen
 
 ### Modelagem
 
-![Modelagem do Sistema](https://github.com/danicoln/sglp-api/assets/99184620/0c147d85-4366-4dde-b059-b099ea071dc0)
+![Modelagem do Sistema](https://github.com/danicoln/assets/blob/main/diagrama.png)
 
 ### Classe Principal: Laudo Pericial
 
